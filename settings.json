@@ -1,0 +1,13 @@
+{
+    "csv_name": "import.csv",
+    "verbose_output": 1,
+    "min_wait": 0,
+    "max_wait": 2,
+    "account": "",
+    "tag1": "0",
+    "tag2": "0",
+    "tag3": "0",
+    "cookie": "",
+    "referrer": "https://mint.intuit.com/transaction.event",
+    "token": ""
+}
